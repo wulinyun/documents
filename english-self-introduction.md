@@ -11,8 +11,8 @@ Redis, WebService, HTML, JSP, JMS, MySQL.
 
    I worked in landa for three years from July 2017 to June 2020,
 mainly works on projects related to PaaS platform. 
-PaaS platform include Pivotal Cloud Foundry, TextCloud, K8S.
-Cooperate with the company to refactor application micro-service and deploy on cloud with CICD.
+platform include Pivotal Cloud Foundry, TextCloud, K8S.
+Support the refactoring of Single application into microservices and deploy on cloud with CICD.
 the technology stack is SpringMVC,SpringBoot,SpringCloud,Mybatis,Docker,CF,K8S.
 
    I worked in HydSoft since July 2020,refactor the code of user management module in SAP Labs China.
