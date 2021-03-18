@@ -13,7 +13,7 @@ Redis, WebService, HTML, JSP, JMS, MySQL.
 mainly works on projects related to PaaS platform. 
 platform include Pivotal Cloud Foundry, TextCloud, K8S.
 Support the refactoring of Single application into microservices and deploy on cloud with CICD.
-the technology stack is SpringMVC,SpringBoot,SpringCloud,Mybatis,Docker,CF,K8S.
+the technology stack is SpringMVC,SpringBoot,SpringCloud,Mybatis,Oracle,MySQL,Docker,Cloud Foundry,kubernetes.
 
    I worked in HydSoft since July 2020,refactor the code of user management module in SAP Labs China.
 the technology stack is SpringMVC, Hibernate, Hana DB.
