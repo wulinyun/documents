@@ -1,6 +1,6 @@
 #   Self-introduction and projects experience
   
-  Good morning,Sir!  It is really my honor to have this
+  Good morning,interviewer!  It is really my honor to have this
 
 opportunity for an interview. Now I will introduce myself briefly.
 
@@ -12,29 +12,27 @@ in Computer Science and Technology.
 
    I started my career as Java development engineer at bestlinks.
 
-I was at Bestlinks for three years, from September 2014 to June 2015,
+I worked in bestlinks for three years, from September 2014 to June 2017.
 
-Mainly about IPTV projects, including Wasu HD, Mango HD, Universal Pictures projects,
+Mainly about IPTV projects, the technology stack is SpringMVC, Hibernate,
+ 
+Redis, WebService, HTML, JSP, JMS, MySQL.
 
-CMS management system, Hainan Mango HD.The technologies used include SpringMVC, 
-
-Hibernate, Redis, memcached, WebService, JS, ExtJS, HTML, JSP, JMS.
 
    I worked in landa for three years from July 2017 to June 2020,
 
-In the early stage, I did a project development of Fubon Bank, using SpringMVC + Mybatis + HTML +Oracle.
+it mainly works on projects related to the PaaS platform. PaaS platform include Pivotal Cloud Foundry, TextCloud, K8S.
 
-In the later stage, I mainly did the construction of PaaS platform and the internal implementation of the company. 
+Cooperate with the company to realize application micro-service and deploy on cloud using CICD.
 
-I split the micro-services of the company's internal applications and deployed them on the cloud, 
-
-using SpringBoot + SpringCloud + Mybatis + Docker + CF + K8S.
-
-   I have worked at Hydsoft since July 2020,
-
-  
+the technology stack is SpringMVC,SpringBoot,SpringCloud,Mybatis,linux,Docker,CF,K8S.
 
 
-  
-  
-  That's all. Thank you for giving me the chance.
+   I worked in Hydsoft since July 2020,Developed by on site SAP Labs China to refactor user management module in large single applications.
+
+the technology stack is SpringMVC, Hibernate, JDBC ,Hana DB.
+
+
+   Projects experience will be introduced in Chinese later,
+   
+My English self introduction is over,Thank you for giving me the chance.
