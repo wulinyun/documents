@@ -22,20 +22,20 @@ Redis, WebService, HTML, JSP, JMS, MySQL.
 
    I worked in landa for three years from July 2017 to June 2020,
 
-it mainly works on projects related to the PaaS platform. 
+mainly works on projects related to PaaS platform. 
 
 PaaS platform include Pivotal Cloud Foundry, TextCloud, K8S.
 
-Cooperate with the company to realize application micro-service and deploy on cloud using CICD.
+Cooperate with the company to refactor application micro-service and deploy on cloud with CICD.
 
 the technology stack is SpringMVC,SpringBoot,SpringCloud,Mybatis,Docker,CF,K8S.
 
 
    I worked in HydSoft since July 2020,refactor the code of user management module in SAP Labs China.
 
-the technology stack is SpringMVC, Hibernate, JDBC ,Hana DB.
+the technology stack is SpringMVC, Hibernate, Hana DB.
 
 
-   Projects experience will be introduced in Chinese later,
+   Project experience will be introduced in Chinese later,
    
 My English self introduction is over,Thank you for giving me the chance.
