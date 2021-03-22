@@ -55,6 +55,23 @@
  是物理隔离的了，它们都是一部分Region（不需要连续）的集合
  
  ![avatar](./images/G1_gc.png)
+ 
+ 
+## 3.6 JVM常用的参数类型有哪些
+    -Xms1000等价于-XX:InitialHeapSize=1000
+    -Xmx1000等价于-XX:MaxHeapSize=1000
+    -Xss100等价于-XX:ThreadStackSize=100
+    
+    
+## 3.7 JVM中常用的命令和工具有哪些，并说出它们的作用?
+    jps 查看java 进程
+    Jinfo 查看jvm启动参数
+    jstat 查看 虚拟机性能(GC 日志) –class 查看类加载信息
+    Jstack 查看进行的堆栈信息
+    jmap 查看当前堆内存 使用情况
+    
+jconsole(JDK自带) MAT(下载连接以及使用方法[MAT使用方法以及jmap使用](https://blog.csdn.net/jzx937345232/article/details/102741496))
+GCViewer日志分析官网[下载地址](https://sourceforge.net/projects/gcviewer/)
 
 ## 3.9 JVM 参数及调优
 
