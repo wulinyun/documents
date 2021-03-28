@@ -1,5 +1,6 @@
 # 3.JVM原理以及性能调优
 常见面试题：
+> https://www.jb51.net/it/714033.html
 > https://blog.csdn.net/jzx937345232/article/details/104795162
 
 ## 3.1 简述JDK,JRE,JVM之间的关系
